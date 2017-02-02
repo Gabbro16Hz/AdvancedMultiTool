@@ -9,7 +9,7 @@
 | amt banblock <block>                          |
 | amt sbanblock <block>                         |
 | amt skull <player>                            |
-| amt help/? <number-of-page>                   |
+| amt help/? "<number-of-page>"                   |
 | amt info/!                                    |
 | amt reload                                    |
 
